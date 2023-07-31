@@ -1,6 +1,6 @@
 import express from "express";
 import { newInstitute } from "../controllers/institute.js";
-import { getAllD, getD, newDepartment } from "../controllers/Department.js";
+import { getAllD, getD, newDepartment } from "../controllers/department.js";
 const router = express.Router();
 
 
