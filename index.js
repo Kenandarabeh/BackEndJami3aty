@@ -26,7 +26,7 @@ const __dirname = dirname(__filename);
 const app = express();
 
 app.use(cors({
-    origin: 'https://front-end-jami3aty-fb28.vercel.app',
+    origin: 'https://jami3aty-13iz.onrender.com',
     credentials: true
 }));
 
